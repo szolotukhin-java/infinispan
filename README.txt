@@ -1,0 +1,1 @@
+https://github.com/infinispan/infinispan-simple-tutorials/blob/main/pom.xml
